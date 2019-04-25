@@ -1,2 +1,2 @@
-# Namelo-Responsive-Template-HTML
-Namelo Responsive Template HTML
+# Namelo2-Responsive-Template-HTML
+Namelo2 Responsive Template HTML
